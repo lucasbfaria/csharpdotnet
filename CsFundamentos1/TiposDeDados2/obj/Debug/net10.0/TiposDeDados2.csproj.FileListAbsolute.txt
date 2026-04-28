@@ -1,0 +1,15 @@
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.exe
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.deps.json
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.runtimeconfig.json
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.dll
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.pdb
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfoInputs.cache
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfo.cs
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.sourcelink.json
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.dll
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\refint\TiposDeDados2.dll
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.pdb
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.genruntimeconfig.cache
+D:\Projetos\csharpdotnet\CsFundamentos1\TiposDeDados2\obj\Debug\net10.0\ref\TiposDeDados2.dll
