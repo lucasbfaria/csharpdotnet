@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="ConversaoTipos1/ConversaoTipos1.csproj" Id="b260d854-7b0c-448b-9357-a7ca0b185b15" />
+  <Project Path="ConversaoTipos2/ConversaoTipos2.csproj" Id="20608fc3-c6c7-4eec-a4bc-7dd0a5637ffc" />
+  <Project Path="EntradadeDados/EntradadeDados.csproj" Id="b73b8331-1966-4449-82c6-7eee8ebefceb" />
   <Project Path="NullableTypes1/NullableTypes1.csproj" />
   <Project Path="TiposDeDados 1/TiposDeDados 1.csproj" />
   <Project Path="TiposDeDados2/TiposDeDados2.csproj" />
